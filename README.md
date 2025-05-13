@@ -41,7 +41,7 @@ A beautiful and interactive web application that displays detailed information a
 
 ## 🌐 Live Demo
 
-👉 [View Live on GitHub Pages](https://your-username.github.io/key-code-detector)
+👉 [View Live on GitHub Pages](https://sujan-v.github.io/Key-Code/)
 
 ---
 
